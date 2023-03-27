@@ -1,1 +1,1 @@
-#JPMorgan Chase & Co forage program tasks 1, 2 and 3
+#JPMorgan Chase & Co Forage Program Tasks One, Two and Three all of which are complete
